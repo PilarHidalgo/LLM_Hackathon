@@ -7,3 +7,6 @@ Aquí encuentras los artículos y links utilizados para construir el prompt y la
 3. [Mistral 7B](https://www.promptingguide.ai/models/mistral-7b) - Información sobre el modelo Mistral 7B.
 4. [How to Make a Good Prompt](https://help.codegpt.co/en/articles/9948775-how-to-make-a-good-prompt) - Consejos para crear buenos prompts.
 5. [Mastering AI Prompting](https://help.codegpt.co/en/articles/9126362-mastering-ai-prompting) - Guía para dominar el prompting en IA.
+
+## Presentación:
+Dominando prompts con re-ingeniería: https://www.canva.com/design/DAGUdyxHYBA/hTDH_MGaFQfiW4NLEPOWPw/view?utm_content=DAGUdyxHYBA&utm_campaign=designshare&utm_medium=link&utm_source=editor#14
